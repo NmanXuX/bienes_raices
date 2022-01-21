@@ -1,0 +1,17 @@
+@include tablet {
+    .contenedor-nosotros {
+        display: grid;
+        grid-template-columns: repeat(2, 2fr);
+        column-gap: 2rem;
+    }
+}
+
+.texto-nosotros {
+    blockquote {
+        font-size: 2.2rem;
+        font-weight: $black;
+        margin: 3rem 0 0 0;
+        padding-left: 1rem 0 3rem 0;
+    }
+}
+
