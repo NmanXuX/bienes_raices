@@ -1,15 +1,15 @@
-# Bienes Raices Started
+# Bienes Raices
 
-Este es el proyecto inicial para crear aplicaciones utilizando Composer.
+Proyecto final curso de Desarrollo de paginas Web.
 
 ### Notas:
 
-Recuerden reconstruir los modulos de Node
+Recuerden reconstruir los modulos de Node si quieren agregar mas contenido
 ```
 npm install
 ```
 
-Y para crear Vendor del Composer, recuerden:
+Y para crear la carpeta Vendor para agregar mas librerias utilizando Composer, recuerden:
 
 ```
 composer update
